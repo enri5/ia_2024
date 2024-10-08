@@ -1,3 +1,5 @@
+import sys
+sys.path.append("C:/Users/enrig/OneDrive/Escritorio/UIB/TERCERO/IA/ia_2024")
 from quiques import agent_amplada, agent_profunditat, joc
 
 
